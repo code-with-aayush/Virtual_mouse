@@ -19,6 +19,5 @@ Step 3:
 Run the Mouse.py file.
 
 <h3><b>How it works:</b></h3>
-<br>
 Mouse cursor Will Move according to the tip of your index finger.
 To click on something touch your thumb to your inder finger.
