@@ -8,7 +8,7 @@ Step 1:
 
 Install all the required modules using requirements.txt file.
 <br>
-" pip install requirements.txt "
+" pip install -r requirements.txt "
 
 Step 2:
 
